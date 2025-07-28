@@ -1,2 +1,2 @@
-# Algorithms
+# Machine_Learning_Algorithms
 Algorithms Revision
